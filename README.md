@@ -40,7 +40,7 @@ sudo apt install libsdl2-dev libsdl2-ttf-dev
 Use o seguinte comando no terminal:
 
 ```bash
-gcc main.c -o arkanoid `sdl2-config --cflags --libs` -lSDL2_ttf -lm
+gcc main.c -o arkanoid -lSDL2 -lSDL2_ttf
 ```
 
 ## 🖼️ Screenshot

@@ -43,9 +43,6 @@ Use o seguinte comando no terminal:
 gcc main.c -o arkanoid -lSDL2 -lSDL2_ttf
 ```
 
-## 🖼️ Screenshot
-![Screenshot do jogo](screenshot.png)
-
 ## 📁 Estrutura do projeto
 ```bash
 Copiar
